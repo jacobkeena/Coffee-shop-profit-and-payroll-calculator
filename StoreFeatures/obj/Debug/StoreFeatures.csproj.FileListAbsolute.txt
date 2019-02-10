@@ -1,0 +1,5 @@
+C:\Users\jacob\source\repos\CoffeeShop\StoreFeatures\bin\Debug\StoreFeatures.dll
+C:\Users\jacob\source\repos\CoffeeShop\StoreFeatures\bin\Debug\StoreFeatures.pdb
+C:\Users\jacob\source\repos\CoffeeShop\StoreFeatures\obj\Debug\StoreFeatures.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\CoffeeShop\StoreFeatures\obj\Debug\StoreFeatures.dll
+C:\Users\jacob\source\repos\CoffeeShop\StoreFeatures\obj\Debug\StoreFeatures.pdb
